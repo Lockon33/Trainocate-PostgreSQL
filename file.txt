@@ -1,2 +1,3 @@
 We are updating the text
 We are updating again
+Updating with GitBash terminal
