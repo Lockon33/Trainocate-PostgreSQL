@@ -8,3 +8,7 @@ $ cd -
 
 Move Up One Directory Level:
 $ cd ..
+
+Initialize local directory as Git Repository
+git init
+
